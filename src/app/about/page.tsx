@@ -55,7 +55,7 @@ export default function AboutPage() {
                     MailMind AI was born from a simple observation: email, meant to make us more productive, had become one of the biggest sources of stress and inefficiency in the modern workplace.
                   </p>
                   <p>
-                    Our founders, having experienced the overwhelming burden of managing hundreds of emails daily across multiple accounts, asked themselves: "What if AI could handle the repetitive work of email organization, leaving humans to focus on meaningful communication?"
+                    Our founders, having experienced the overwhelming burden of managing hundreds of emails daily across multiple accounts, asked themselves: &quot;What if AI could handle the repetitive work of email organization, leaving humans to focus on meaningful communication?&quot;
                   </p>
                   <p>
                     Today, MailMind AI helps thousands of professionals worldwide achieve inbox zero, save countless hours, and reduce digital fatigue. We are proud to be transforming how people interact with their most important communication channel.
@@ -137,7 +137,7 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-xl font-bold mb-2">User-First</h3>
                 <p className="text-muted-foreground">
-                  Every decision starts with "How does this help our users save time and reduce stress?"
+                  Every decision starts with &quot;How does this help our users save time and reduce stress?&quot;
                 </p>
               </Card>
 
