@@ -26,7 +26,7 @@ import {
 
 export const metadata = {
   title: "Features - MailMind AI",
-  description: "Our privacy practices and how we handle your data.",
+  description: "Explore the powerful features of MailMind AI that transform your email experience with intelligent automation and smart organization.",
 };
 export default function FeaturesPage() {
   return (
@@ -139,7 +139,7 @@ export default function FeaturesPage() {
                       </li>
                     </ul>
                     <p className="text-sm text-muted-foreground italic">
-                      Save up to 80% of the time you'd normally spend reading long threads
+                      Save up to 80% of the time you would normally spend reading long threads
                     </p>
                   </div>
                 </div>

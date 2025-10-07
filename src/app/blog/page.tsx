@@ -109,8 +109,8 @@ const categories = [
   { name: "Sustainability", count: 1 }
 ];
 export const metadata = {
-  title: "Blog - MailMind AI",
-  description: "Our privacy practices and how we handle your data.",
+    title: "Blog - MailMind AI",
+    description: "Read expert articles, tips, and insights on email productivity, AI technology, security, and more from the MailMind AI team.",
 };
 
 export default function BlogPage() {
@@ -175,7 +175,7 @@ export default function BlogPage() {
                       </div>
                     </div>
                     <Button size="lg" asChild>
-                      <Link href={`/blog/${featuredPost.id}`}>
+                      <Link href={'/blog/' + featuredPost.id}>
                         Read Article
                         <ArrowRight className="ml-2 h-5 w-5" />
                       </Link>
@@ -246,7 +246,7 @@ export default function BlogPage() {
                         <span>{post.author}</span>
                       </div>
                       <Button variant="ghost" size="sm" asChild>
-                        <Link href={`/blog/${post.id}`}>
+                        <Link href={'/blog/' + post.id}>
                           Read More
                           <ArrowRight className="ml-1 h-4 w-4" />
                         </Link>

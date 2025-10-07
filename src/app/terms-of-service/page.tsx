@@ -39,7 +39,7 @@ export default function TermsOfServicePage() {
             </CardHeader>
             <CardContent>
               <p className="text-sm text-muted-foreground">
-                These Terms constitute a legally binding agreement between you and MailMind AI ("we", "us", "our"). If you
+                These Terms constitute a legally binding agreement between you and MailMind AI. If you
                 do not agree, do not use the service.
               </p>
             </CardContent>
@@ -78,7 +78,7 @@ export default function TermsOfServicePage() {
             </CardHeader>
             <CardContent>
               <p className="text-sm text-muted-foreground">
-                The service is provided "as is". To the fullest extent permitted by law, MailMind AI disclaims all
+                The service is provided as is. To the fullest extent permitted by law, MailMind AI disclaims all
                 warranties and limits liability for damages.
               </p>
             </CardContent>

@@ -118,7 +118,7 @@ export default function HomePage() {
                 </h2>
                 <div className="space-y-4 text-muted-foreground">
                   <p>
-                    The average professional spends 28% of their workday managing emails. That's over 11 hours per week wasted on sorting, filtering, and searching through cluttered inboxes.
+                    The average professional spends 28% of their workday managing emails. That is over 11 hours per week wasted on sorting, filtering, and searching through cluttered inboxes.
                   </p>
                   <p>
                     Important messages get lost in the noise. Critical deadlines are missed. Digital fatigue sets in, affecting your productivity and well-being.
@@ -163,7 +163,7 @@ export default function HomePage() {
                 Powerful Features, Simple Experience
               </h2>
               <p className="text-xl text-muted-foreground max-w-[800px] mx-auto">
-                Everything you need to conquer your inbox, nothing you don't
+                Everything you need to conquer your inbox, nothing you do not
               </p>
             </div>
             
@@ -285,8 +285,8 @@ export default function HomePage() {
                     ))}
                   </div>
                   <p className="text-sm text-muted-foreground mb-3">
-                    "MailMind AI has completely transformed how I handle email. I save at least 2 hours every day!"
-                  </p>
+                        "MailMind AI has completely transformed how I handle email. I save at least 2 hours every day!"
+                      </p>
                   <div>
                     <p className="font-semibold text-sm">Sarah Chen</p>
                     <p className="text-xs text-muted-foreground">Product Manager, TechCorp</p>
@@ -319,7 +319,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <p className="text-sm text-muted-foreground mb-3">
-                    "Worth every penny. The time savings alone make this the best productivity tool I've ever used."
+                    "Worth every penny. The time savings alone make this the best productivity tool I have ever used."
                   </p>
                   <div>
                     <p className="font-semibold text-sm">Emily Watson</p>
@@ -340,7 +340,7 @@ export default function HomePage() {
                   Ready to Achieve Inbox Zero?
                 </h2>
                 <p className="text-xl opacity-90 max-w-[600px] mx-auto">
-                  Join thousands of professionals who've transformed their email experience. Start your free 14-day trial today.
+                  Join thousands of professionals who have transformed their email experience. Start your free 14-day trial today.
                 </p>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row justify-center">
                   <Button size="lg" variant="secondary" asChild className="text-base px-8">

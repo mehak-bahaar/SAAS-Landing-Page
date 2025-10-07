@@ -78,7 +78,7 @@ export default function ContactPage() {
                 </span>
               </h1>
               <p className="text-xl text-muted-foreground">
-                Have questions about MailMind AI? We're here to help you achieve inbox zero and transform your email experience.
+                Have questions about MailMind AI? We are here to help you achieve inbox zero and transform your email experience.
               </p>
             </div>
           </div>
@@ -94,7 +94,7 @@ export default function ContactPage() {
                 <CardHeader className="px-0 pt-0">
                   <CardTitle className="text-2xl">Send us a Message</CardTitle>
                   <CardDescription>
-                    Fill out the form below and we'll get back to you within 24 hours.
+                    Fill out the form below and we will get back to you within 24 hours.
                   </CardDescription>
                 </CardHeader>
                 <CardContent className="px-0 pb-0">
@@ -105,7 +105,7 @@ export default function ContactPage() {
                       </div>
                       <h3 className="text-xl font-semibold">Message Sent Successfully!</h3>
                       <p className="text-muted-foreground">
-                        Thank you for reaching out. We'll get back to you soon.
+                        Thank you for reaching out. We will get back to you soon.
                       </p>
                     </div>
                   ) : (
@@ -257,7 +257,7 @@ export default function ContactPage() {
                   <CardHeader className="px-0 pt-0">
                     <CardTitle className="text-2xl">Business Hours</CardTitle>
                     <CardDescription>
-                      When we're available to help
+                      When we are available to help
                     </CardDescription>
                   </CardHeader>
                   <CardContent className="px-0 pb-0">

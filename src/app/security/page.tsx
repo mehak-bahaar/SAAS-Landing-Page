@@ -92,7 +92,7 @@ export default function SecurityPage() {
             <CardContent>
               <p className="text-sm text-muted-foreground">
                 We maintain an incident response plan that includes detection, containment, eradication, recovery, and
-                post-incident review. If a breach affecting your data occurs, we'll notify you in accordance with
+                post-incident review. If a breach affecting your data occurs, we will notify you in accordance with
                 applicable laws.
               </p>
             </CardContent>

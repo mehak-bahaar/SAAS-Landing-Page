@@ -16,8 +16,8 @@ import {
   CheckCircle
 } from "lucide-react";
 export const metadata = {
-  title: "About - MailMind AI",
-  description: "Our privacy practices and how we handle your data.",
+    title: "About - MailMind AI",
+    description: "Learn about MailMind AI, our mission, values, team, and commitment to transforming email productivity for professionals worldwide.",
 };
 export default function AboutPage() {
   return (
@@ -32,11 +32,11 @@ export default function AboutPage() {
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl">
                 About
                 <span className="bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
-                  {" "}MailMind AI
+                  {' '}MailMind AI
                 </span>
               </h1>
               <p className="text-xl text-muted-foreground">
-                We're on a mission to help professionals reclaim their time and focus on what truly matters.
+                We are on a mission to help professionals reclaim their time and focus on what truly matters.
               </p>
             </div>
           </div>
@@ -55,10 +55,10 @@ export default function AboutPage() {
                     MailMind AI was born from a simple observation: email, meant to make us more productive, had become one of the biggest sources of stress and inefficiency in the modern workplace.
                   </p>
                   <p>
-                    Our founders, having experienced the overwhelming burden of managing hundreds of emails daily across multiple accounts, asked themselves: "What if AI could handle the repetitive work of email organization, leaving humans to focus on meaningful communication?"
+                    Our founders, having experienced the overwhelming burden of managing hundreds of emails daily across multiple accounts, asked themselves: 'What if AI could handle the repetitive work of email organization, leaving humans to focus on meaningful communication?'
                   </p>
                   <p>
-                    Today, MailMind AI helps thousands of professionals worldwide achieve inbox zero, save countless hours, and reduce digital fatigue. We're proud to be transforming how people interact with their most important communication channel.
+                    Today, MailMind AI helps thousands of professionals worldwide achieve inbox zero, save countless hours, and reduce digital fatigue. We are proud to be transforming how people interact with their most important communication channel.
                   </p>
                 </div>
               </div>

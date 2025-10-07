@@ -55,7 +55,7 @@ export default function PricingPage() {
                 </span>
               </h1>
               <p className="text-xl text-muted-foreground">
-                Choose the perfect plan for your email management needs. Start free, upgrade when you're ready.
+                Choose the perfect plan for your email management needs. Start free, upgrade when you are ready.
               </p>
               <div className="flex items-center justify-center space-x-2">
                 <CheckCircle className="h-5 w-5 text-green-500" />
@@ -350,7 +350,7 @@ export default function PricingPage() {
                 Frequently Asked Questions
               </h2>
               <p className="text-xl text-muted-foreground">
-                Got questions? We've got answers.
+                Got questions? We have answers.
               </p>
             </div>
 
@@ -361,7 +361,7 @@ export default function PricingPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    Yes! You can upgrade or downgrade your plan at any time. Changes take effect immediately, and we'll prorate any differences.
+                    Yes! You can upgrade or downgrade your plan at any time. Changes take effect immediately, and we will prorate any differences.
                   </p>
                 </CardContent>
               </Card>
@@ -372,7 +372,7 @@ export default function PricingPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    After your 14-day free trial, you'll be automatically charged for the plan you selected. You can cancel anytime before the trial ends without being charged.
+                    After your 14-day free trial, you will be automatically charged for the plan you selected. You can cancel anytime before the trial ends without being charged.
                   </p>
                 </CardContent>
               </Card>
@@ -422,7 +422,7 @@ export default function PricingPage() {
                   Ready to Get Started?
                 </h2>
                 <p className="text-xl opacity-90 max-w-[600px] mx-auto">
-                  Join thousands of professionals who've transformed their email experience with MailMind AI.
+                  Join thousands of professionals who have transformed their email experience with MailMind AI.
                 </p>
                 <Button size="lg" variant="secondary" asChild className="text-base px-8">
                   <Link href="/signup">

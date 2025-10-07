@@ -84,8 +84,7 @@ export default function CookiePolicyPage() {
                 certain cookies may affect site functionality.
               </p>
               <p className="text-sm text-muted-foreground mt-2">
-                For analytics and advertising cookies, you may opt out through the third-party providers' preference
-                centers.
+                For analytics and advertising cookies, you may opt out through the preference centers of those providers.
               </p>
             </CardContent>
           </Card>
