@@ -285,7 +285,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <p className="text-sm text-muted-foreground mb-3">
-                        'MailMind AI has completely transformed how I handle email. I save at least 2 hours every day!' 
+                        &quot;MailMind AI has completely transformed how I handle email. I save at least 2 hours every day!&quot; 
                       </p>
                   <div>
                     <p className="font-semibold text-sm">Sarah Chen</p>
@@ -302,7 +302,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <p className="text-sm text-muted-foreground mb-3">
-                    'The AI categorization is incredibly accurate. Finally, my inbox feels organized and manageable.' 
+                    &quot;The AI categorization is incredibly accurate. Finally, my inbox feels organized and manageable.&quot;
                   </p>
                   <div>
                     <p className="font-semibold text-sm">Michael Rodriguez</p>
@@ -319,7 +319,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <p className="text-sm text-muted-foreground mb-3">
-                    'Worth every penny. The time savings alone make this the best productivity tool I have ever used.' 
+                    &quot;Worth every penny. The time savings alone make this the best productivity tool I have ever used.&quot;
                   </p>
                   <div>
                     <p className="font-semibold text-sm">Emily Watson</p>
