@@ -25,7 +25,7 @@ export default function CareersPage() {
               </span>
             </h1>
             <p className="text-xl text-muted-foreground">
-              We're building a product that helps professionals reclaim their time. Come help us make email delightful.
+              We are building a product that helps professionals reclaim their time. Come help us make email delightful.
             </p>
           </div>
         </div>
@@ -38,8 +38,8 @@ export default function CareersPage() {
               <CardContent>
                 <h2 className="text-2xl font-bold mb-2">Open Positions</h2>
                 <p className="text-sm text-muted-foreground mb-4">
-                  We're hiring for remote-first roles across engineering, product, and design. Below are some of the
-                  positions we're actively hiring for - if you don't see the perfect match, please still reach out.
+                  We are hiring for remote-first roles across engineering, product, and design. Below are some of the
+                  positions we are actively hiring for - if you do not see the perfect match, please still reach out.
                 </p>
 
                 <div className="space-y-6">
@@ -121,7 +121,7 @@ export default function CareersPage() {
 
             <Card className="p-6">
               <CardContent>
-                <h4 className="font-semibold">We're committed to inclusion</h4>
+                <h4 className="font-semibold">We are committed to inclusion</h4>
                 <p className="text-sm text-muted-foreground">MailMind AI is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.</p>
               </CardContent>
             </Card>
@@ -133,8 +133,8 @@ export default function CareersPage() {
           <div className="container px-4 md:px-6">
             <Card className="bg-gradient-to-r from-primary to-primary/90 text-primary-foreground border-0">
               <CardContent className="pt-8 pb-8 text-center space-y-4">
-                <h3 className="text-2xl font-bold">Didn't find the right role?</h3>
-                <p className="text-sm opacity-90 max-w-[600px] mx-auto">We're always looking for talented people - send an intro and your resume.</p>
+                <h3 className="text-2xl font-bold">Did not find the right role?</h3>
+                <p className="text-sm opacity-90 max-w-[600px] mx-auto">We are always looking for talented people - send an intro and your resume.</p>
                 <Link href="mailto:jobs@mailmind.ai" className="inline-block rounded-md bg-background/5 px-6 py-2 text-sm font-medium text-primary underline">Introduce yourself</Link>
               </CardContent>
             </Card>

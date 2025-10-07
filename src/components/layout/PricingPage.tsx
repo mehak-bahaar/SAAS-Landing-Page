@@ -259,7 +259,7 @@ export default function PricingPage() {
                 Compare Features
               </h2>
               <p className="text-xl text-muted-foreground">
-                See exactly what's included in each plan
+                See exactly what is included in each plan
               </p>
             </div>
 

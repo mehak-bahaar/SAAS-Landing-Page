@@ -55,7 +55,7 @@ export default function AboutPage() {
                     MailMind AI was born from a simple observation: email, meant to make us more productive, had become one of the biggest sources of stress and inefficiency in the modern workplace.
                   </p>
                   <p>
-                    Our founders, having experienced the overwhelming burden of managing hundreds of emails daily across multiple accounts, asked themselves: 'What if AI could handle the repetitive work of email organization, leaving humans to focus on meaningful communication?'
+                    Our founders, having experienced the overwhelming burden of managing hundreds of emails daily across multiple accounts, asked themselves: "What if AI could handle the repetitive work of email organization, leaving humans to focus on meaningful communication?"
                   </p>
                   <p>
                     Today, MailMind AI helps thousands of professionals worldwide achieve inbox zero, save countless hours, and reduce digital fatigue. We are proud to be transforming how people interact with their most important communication channel.
@@ -147,7 +147,7 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-xl font-bold mb-2">Privacy & Security</h3>
                 <p className="text-muted-foreground">
-                  We treat your data with the same care we'd want for our own. Security is never an afterthought.
+                  We treat your data with the same care we would want for our own. Security is never an afterthought.
                 </p>
               </Card>
 
@@ -157,7 +157,7 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-xl font-bold mb-2">Empathy</h3>
                 <p className="text-muted-foreground">
-                  We understand the pain of email overload because we've lived it. Your challenges are our challenges.
+                  We understand the pain of email overload because we have lived it. Your challenges are our challenges.
                 </p>
               </Card>
 
@@ -167,7 +167,7 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-xl font-bold mb-2">Excellence</h3>
                 <p className="text-muted-foreground">
-                  We're obsessed with creating the best possible experience and continuously improving our product.
+                  We are obsessed with creating the best possible experience and continuously improving our product.
                 </p>
               </Card>
 
@@ -177,7 +177,7 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-xl font-bold mb-2">Global Impact</h3>
                 <p className="text-muted-foreground">
-                  We're building a solution that helps professionals everywhere, regardless of location or industry.
+                  We are building a solution that helps professionals everywhere, regardless of location or industry.
                 </p>
               </Card>
 
@@ -187,7 +187,7 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-xl font-bold mb-2">Innovation</h3>
                 <p className="text-muted-foreground">
-                  We're constantly pushing the boundaries of what's possible with AI and email management.
+                  We are constantly pushing the boundaries of what is possible with AI and email management.
                 </p>
               </Card>
             </div>
@@ -341,7 +341,7 @@ export default function AboutPage() {
                   <div>
                     <h3 className="font-semibold mb-1">Data Portability</h3>
                     <p className="text-sm text-muted-foreground">
-                      Easy export of your data at any time. You're always in control of your information.
+                      Easy export of your data at any time. You are always in control of your information.
                     </p>
                   </div>
                 </div>

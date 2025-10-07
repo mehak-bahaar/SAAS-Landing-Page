@@ -297,7 +297,7 @@ export default function BlogPage() {
                 Ready to Transform Your Email Experience?
               </h2>
               <p className="text-xl text-muted-foreground max-w-[600px] mx-auto">
-                Join thousands of professionals who've already discovered the power of AI-driven email management.
+                Join thousands of professionals who have already discovered the power of AI-driven email management.
               </p>
               <Button size="lg" asChild>
                 <Link href="/signup">
